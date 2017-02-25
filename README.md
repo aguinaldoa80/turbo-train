@@ -1,2 +1,2 @@
 # turbo-train
-Project to do disicplina OOI2 2017
+Project to do disicplina PPI2 2017
